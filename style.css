@@ -1,0 +1,96 @@
+.header-nav {
+	background-color: black;
+	color: white;
+	height: 50px;
+	width: 100%;
+}
+.header-nav li{
+	float: left;
+	list-style: none;
+	line-height: 50px;
+	padding:0 20px;
+
+}
+
+main h1{
+	border-bottom: solid 1px gray;
+	border-left: solid 5px gray;
+	padding-left: 10px;
+}
+
+.main {
+	float: left;
+	width: 65%;
+}
+
+form {
+	margin: 0 auto;
+	background-color: #fbfbfb;
+	border: 3px #ebebeb solid;
+	border-radius: 10px;
+	width: 95%;
+}
+form div{
+	padding: 15px;
+}
+form h2{
+	padding-left: 10px;
+}
+
+.text, .textarea{
+	border: 1px solid #dfdfdf;
+	padding: 5px;
+	color: #999;
+	background: #fff;
+}
+
+.submit{
+	border: 1px solid lightgray;
+	padding: 4px 10px; 
+	color: white;
+	background-color: orange;
+	border-radius: 5px;
+	border-bottom: solid 2px gray; 
+}
+
+.article {
+	margin: 0 auto;
+	background-color: #fbfbfb;
+	border: 3px #ebebeb solid;
+	border-radius: 10px;
+	width: 95%;
+	margin-top: 10px;
+	margin-bottom: 10px
+}
+
+.article h2,.contents,.handlename {
+	padding-left: 20px;
+	padding-bottom: 10px;
+}
+
+
+
+.side{
+	float: right;
+	width: 30%;
+}
+.side h2{
+	border-bottom: 2px solid gray;
+	padding-top: 10px;
+}
+
+
+
+
+
+footer{
+	clear: both;
+	background-color: black;
+	color: white;
+	height: 50px;
+	width: 100%;
+}
+footer p{
+	text-align: center;
+	line-height: 50px;
+}
